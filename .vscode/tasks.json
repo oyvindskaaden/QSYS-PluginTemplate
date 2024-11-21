@@ -29,10 +29,7 @@
         {
             "label": "---",
             "type": "shell",
-            "group": {
-                "kind": "build",
-                "isDefault": true
-            },
+            "group": "build",
             "command": "echo Move QSD Plugin to build folder",
             "windows": {
                 "command": ".\\plugincompile\\move_plugin.cmd \"${workspaceFolder}\\src\"  \"${workspaceFolder}\\build\" \"${workspaceFolderBasename}.qplug\"",
