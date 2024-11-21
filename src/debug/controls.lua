@@ -1,0 +1,1 @@
+table.insert(ctrls,{Name = "code",ControlType = "Text",UserPin = true,PinStyle = "Input",Count = 1})
