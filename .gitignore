@@ -46,3 +46,4 @@ luac.out
 # QSC QSYS plugin files
 *.qplug
 *.qplugx
+build/
