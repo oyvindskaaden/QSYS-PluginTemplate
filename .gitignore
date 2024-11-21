@@ -39,6 +39,10 @@ luac.out
 *.x86_64
 *.hex
 
+# QSC QSYS Development tools
+!*/PLUGCC.exe
+!*/uuidgen.exe
+
 # QSC QSYS plugin files
 *.qplug
 *.qplugx
